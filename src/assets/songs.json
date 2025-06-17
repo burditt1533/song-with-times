@@ -6,10 +6,9 @@
     "youtube": "",
     "times": [
       {
-        "position": 181.23,
-        "start": 181.23,
-        "end": 0,
-        "duration": 10,
+        "position": 181.17893716329112,
+        "start": 181.17893716329112,
+        "end": 181.96120218561393,
         "timeOfDay": "00:00"
       }
     ]
@@ -37,12 +36,12 @@
       {
         "position": 36.9,
         "start": 36.9,
-        "end": 0,
-        "duration": 10,
+        "end": 38.650012214101984,
         "timeOfDay": "00:00"
       }
     ]
   },
+
   {
     "artist": "Jay z",
     "title": "Do It Again",
@@ -140,10 +139,9 @@
     "youtube": "https://www.youtube.com/watch?v=Er5smRxWPSY&list=RDEr5smRxWPSY&start_radio=1&pp=ygUobWFydmluIGdheWUgcm9ja2luIGFmdGVyIG1pZG5pZ2h0IGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 6.283803,
-        "start": 6.283803,
-        "end": 0,
-        "duration": 10,
+        "position": 6.218014605079044,
+        "start": 6.218014605079044,
+        "end": 7.269928036229252,
         "timeOfDay": "00:00"
       }
     ]
@@ -157,8 +155,7 @@
       {
         "position": 177.011779,
         "start": 177.011779,
-        "end": 0,
-        "duration": 10,
+        "end": 178.03433312860963,
         "timeOfDay": "00:00"
       }
     ]
@@ -170,10 +167,9 @@
     "youtube": "https://www.youtube.com/watch?v=rLMr9CsJHME&list=RDrLMr9CsJHME&start_radio=1&pp=ygUgTWljaGFlbCBqYWNrc29uIFRocmlsbGVyICBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 59,
-        "start": 59,
-        "end": 0,
-        "duration": 10,
+        "position": 60.17834906378031,
+        "start": 60.17834906378031,
+        "end": 62.008880848290865,
         "timeOfDay": "00:00"
       }
     ]
@@ -185,10 +181,9 @@
     "youtube": "https://www.youtube.com/watch?v=sk0JG0t3YEk&list=RDsk0JG0t3YEk&start_radio=1&pp=ygUSbXlhIGNhc2Ugb2YgdGhlIGV4oAcB",
     "times": [
       {
-        "position": 20,
-        "start": 20,
-        "end": 0,
-        "duration": 10,
+        "position": 21.052085744473477,
+        "start": 21.052085744473477,
+        "end": 21.75458041253594,
         "timeOfDay": "00:00"
       }
     ]
@@ -200,10 +195,9 @@
     "youtube": "https://www.youtube.com/watch?v=yGxpKQkHREQ&list=RDyGxpKQkHREQ&start_radio=1&pp=ygURU2lzcW8gTElQUyBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 38,
-        "start": 38,
-        "end": 0,
-        "duration": 10,
+        "position": 38.32262902542048,
+        "start": 38.32262902542048,
+        "end": 41.187426539704,
         "timeOfDay": "00:00"
       }
     ]
@@ -217,8 +211,7 @@
       {
         "position": 14,
         "start": 14,
-        "end": 0,
-        "duration": 10,
+        "end": 16.037249960218745,
         "timeOfDay": "00:00"
       }
     ]
@@ -230,10 +223,9 @@
     "youtube": "https://www.youtube.com/watch?v=InKbnzJFLo0&list=RDInKbnzJFLo0&start_radio=1&pp=ygUndG9uaSB0b255IHRvbmUgTGV04oCZcyBnZXQgZG93biAgbHlyaWNzoAcB0gcJCbIJAYcqIYzv",
     "times": [
       {
-        "position": 50,
-        "start": 50,
-        "end": 0,
-        "duration": 10,
+        "position": 50.59735627178657,
+        "start": 50.59735627178657,
+        "end": 52,
         "timeOfDay": "00:00"
       }
     ]
@@ -247,8 +239,7 @@
       {
         "position": 14.149004,
         "start": 14.149004,
-        "end": 0,
-        "duration": 10,
+        "end": 14.880441862423137,
         "timeOfDay": "00:00"
       }
     ]
@@ -262,8 +253,7 @@
       {
         "position": 21.292841,
         "start": 21.292841,
-        "end": 0,
-        "duration": 10,
+        "end": 23.066882995620844,
         "timeOfDay": "00:47"
       }
     ]
@@ -275,11 +265,40 @@
     "youtube": "https://www.youtube.com/watch?v=Qo642YjPC44&list=RDQo642YjPC44&start_radio=1&pp=ygUkZnJlZWRpYSByb2NrIGFyb3VuZCB0aGUgY2xvY2sgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 0,
-        "start": 0,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "01:00"
+        "position": 1.7374225195100315,
+        "start": 1.7374225195100315,
+        "end": 2.0946432140380815,
+        "timeOfDay": "15:00"
+      },
+      {
+        "position": 2.14358726871303,
+        "start": 2.14358726871303,
+        "end": 2.587097086768048,
+        "timeOfDay": "16:00"
+      },
+      {
+        "position": 3.842371893102478,
+        "start": 3.842371893102478,
+        "end": 4.372433784718509,
+        "timeOfDay": "19:00"
+      },
+      {
+        "position": 4.600517635826529,
+        "start": 4.600517635826529,
+        "end": 4.953895114669431,
+        "timeOfDay": "20:00"
+      },
+      {
+        "position": 6.202436906131306,
+        "start": 6.202436906131306,
+        "end": 6.625798910122965,
+        "timeOfDay": "23:00"
+      },
+      {
+        "position": 6.640710926715944,
+        "start": 6.640710926715944,
+        "end": 7.211856393990472,
+        "timeOfDay": "00:00"
       }
     ]
   },
@@ -290,11 +309,60 @@
     "youtube": "https://www.youtube.com/watch?v=qDUpTUbGmyE&list=RDqDUpTUbGmyE&start_radio=1&pp=ygUdSmF5LXogSnVzdGlmeSBteSB0aHVnICBseXJpY3OgBwHSBwkJsgkBhyohjO8%3D",
     "times": [
       {
-        "position": 22,
-        "start": 22,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "01:00"
+        "position": 22.968818239319162,
+        "start": 22.968818239319162,
+        "end": 23.359778268643236,
+        "timeOfDay": "13:00"
+      },
+      {
+        "position": 23.52729677165683,
+        "start": 23.52729677165683,
+        "end": 24.156442542600043,
+        "timeOfDay": "14:00"
+      },
+      {
+        "position": 24.335137632711454,
+        "start": 24.335137632711454,
+        "end": 24.82860166863103,
+        "timeOfDay": "15:00"
+      },
+      {
+        "position": 26.26125786146496,
+        "start": 26.26125786146496,
+        "end": 26.73142246812867,
+        "timeOfDay": "19:00"
+      },
+      {
+        "position": 26.929489552435573,
+        "start": 26.929489552435573,
+        "end": 27.404718637268697,
+        "timeOfDay": "20:00"
+      },
+      {
+        "position": 28.038965527110342,
+        "start": 28.038965527110342,
+        "end": 28.721219836593427,
+        "timeOfDay": "23:00"
+      },
+      {
+        "position": 28.808465933906234,
+        "start": 28.808465933906234,
+        "end": 29.194278587163613,
+        "timeOfDay": "00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jagged edge",
+    "title": "where the party at ",
+    "mp3": "scl/fi/br0y5lsbllin7fije03mf/Jagged-Edge-ft.-Nelly-Where-The-Party-At-Lyrics-4.mp3?rlkey=yvw87gswz4nu85lqk1i067kao&st=bb1yonbe&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=gmB-vKJvQtk&list=RDgmB-vKJvQtk&start_radio=1&pp=ygUmSmFnZ2VkIGVkZ2Ugd2hlcmUgdGhlIHBhcnR5IGF0ICBseXJpY3OgBwE%3D",
+    "times": [
+      {
+        "position": 126.50484788396055,
+        "start": 126.50484788396055,
+        "end": 127.08747379535653,
+        "timeOfDay": "01:30"
       }
     ]
   },
@@ -307,59 +375,32 @@
       {
         "position": 26.805707,
         "start": 26.805707,
-        "end": 0,
-        "duration": 2,
+        "end": 27.43256147365412,
         "timeOfDay": "01:00"
       },
       {
-        "position": 27.6,
-        "start": 27.6,
-        "end": 0,
-        "duration": 2,
+        "position": 27.631500723036797,
+        "start": 27.631500723036797,
+        "end": 28.21952961121482,
         "timeOfDay": "02:00"
       },
       {
-        "position": 28.465964,
-        "start": 28.465964,
-        "end": 0,
-        "duration": 2,
+        "position": 28.510821409198446,
+        "start": 28.510821409198446,
+        "end": 29.07726777115763,
         "timeOfDay": "03:00"
       },
       {
-        "position": 29.191528,
-        "start": 29.191528,
-        "end": 0,
-        "duration": 2,
-        "timeOfDay": "04:00"
-      },
-      {
-        "position": 30.054626,
-        "start": 30.054626,
-        "end": 0,
-        "duration": 2,
+        "position": 30.084586389967523,
+        "start": 30.084586389967523,
+        "end": 30.600919639956835,
         "timeOfDay": "05:00"
       },
       {
-        "position": 30.866497,
-        "start": 30.866497,
-        "end": 0,
-        "duration": 2,
+        "position": 30.867619407474507,
+        "start": 30.867619407474507,
+        "end": 31.47923299435574,
         "timeOfDay": "06:00"
-      }
-    ]
-  },
-  {
-    "artist": "Jagged edge",
-    "title": "where the party at ",
-    "mp3": "scl/fi/br0y5lsbllin7fije03mf/Jagged-Edge-ft.-Nelly-Where-The-Party-At-Lyrics-4.mp3?rlkey=yvw87gswz4nu85lqk1i067kao&st=bb1yonbe&dl=1",
-    "youtube": "https://www.youtube.com/watch?v=gmB-vKJvQtk&list=RDgmB-vKJvQtk&start_radio=1&pp=ygUmSmFnZ2VkIGVkZ2Ugd2hlcmUgdGhlIHBhcnR5IGF0ICBseXJpY3OgBwE%3D",
-    "times": [
-      {
-        "position": 126,
-        "start": 126,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "01:30"
       }
     ]
   },
@@ -370,10 +411,9 @@
     "youtube": "https://www.youtube.com/watch?v=72ZhAZJdMDY&list=RD72ZhAZJdMDY&start_radio=1&pp=ygUYYWRyaWVuIG1hcmNlbCAyYW0gbHlyaWNzoAcB",
     "times": [
       {
-        "position": 0,
-        "start": 0,
-        "end": 0,
-        "duration": 10,
+        "position": 14.250836607772273,
+        "start": 14.250836607772273,
+        "end": 15.867747042382124,
         "timeOfDay": "02:00"
       }
     ]
@@ -385,10 +425,9 @@
     "youtube": "",
     "times": [
       {
-        "position": 30.7,
-        "start": 30.7,
-        "end": 0,
-        "duration": 12,
+        "position": 31.295263297575648,
+        "start": 31.295263297575648,
+        "end": 31.775498758378465,
         "timeOfDay": "02:00"
       }
     ]
@@ -400,10 +439,9 @@
     "youtube": "https://www.youtube.com/watch?v=uLuApVN4_aQ&list=RDuLuApVN4_aQ&start_radio=1&pp=ygUZRWxsYSBNYWkgMiBPJ2Nsb2NrIGx5cmljc6AHAdIHCQneCQGHKiGM7w%3D%3D",
     "times": [
       {
-        "position": 50,
-        "start": 50,
-        "end": 0,
-        "duration": 10,
+        "position": 50.834627185375425,
+        "start": 50.834627185375425,
+        "end": 53.32662564914199,
         "timeOfDay": "02:00"
       }
     ]
@@ -417,8 +455,7 @@
       {
         "position": 202,
         "start": 202,
-        "end": 0,
-        "duration": 10,
+        "end": 202.92789240382805,
         "timeOfDay": "02:00"
       }
     ]
@@ -430,25 +467,23 @@
     "youtube": "https://www.youtube.com/watch?v=LUIjjGTUyeY&list=RDLUIjjGTUyeY&start_radio=1&pp=ygUVaiBjb2xlIGRlamEgdnUgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 93,
-        "start": 93,
-        "end": 0,
-        "duration": 10,
+        "position": 93.41045837711427,
+        "start": 93.41045837711427,
+        "end": 93.86525809907225,
         "timeOfDay": "02:00"
       }
     ]
   },
   {
-    "artist": "partynextdoor",
+    "artist": "Partynextdoor",
     "title": "come and see me ",
     "mp3": "scl/fi/5dpfg30hokjgmglfh5pqc/Come-and-See-Me-PARTYNEXTDOOR-feat.-Drake-Lyrics.mp3?rlkey=5ryl9kcuwheef7g4j91w8g52b&st=5htd474b&dl=1",
     "youtube": "https://www.youtube.com/watch?v=Dxbop3gMTxo&list=RDDxbop3gMTxo&start_radio=1&pp=ygUlcGFydHluZXh0ZG9vciBjb21lIGFuZCBzZWUgbWUgIGx5cmljc6AHAdIHCQmyCQGHKiGM7w%3D%3D",
     "times": [
       {
-        "position": 51,
-        "start": 51,
-        "end": 0,
-        "duration": 10,
+        "position": 51.58972496321399,
+        "start": 51.58972496321399,
+        "end": 52.07440657960401,
         "timeOfDay": "02:00"
       }
     ]
@@ -460,25 +495,23 @@
     "youtube": "https://www.youtube.com/watch?v=obGVIC62TUU&list=RDobGVIC62TUU&start_radio=1&pp=ygUYUGxpZXMgaHlwbm90aXplZCAgbHlyaWNzoAcB0gcJCbIJAYcqIYzv",
     "times": [
       {
-        "position": 40,
-        "start": 40,
-        "end": 0,
-        "duration": 10,
+        "position": 41.65285500364256,
+        "start": 41.65285500364256,
+        "end": 43.27453263742341,
         "timeOfDay": "02:00"
       }
     ]
   },
   {
-    "artist": "ron isley",
+    "artist": "Ron isley",
     "title": "keep it flowing ",
     "mp3": "scl/fi/7n809ugh36ei1nppc713p/Keep-It-Flowin-4.mp3?rlkey=f4mm3xc02iukebywcvw8k06g4&st=h26maufy&dl=1",
     "youtube": "https://www.youtube.com/watch?v=6p1wd_pnce0&list=RD6p1wd_pnce0&start_radio=1&pp=ygUhcm9uIGlzbGV5IGtlZXAgaXQgZmxvd2luZyAgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 1,
-        "start": 1,
-        "end": 0,
-        "duration": 10,
+        "position": 0.8326785762234312,
+        "start": 0.8326785762234312,
+        "end": 1.7925788926139987,
         "timeOfDay": "02:00"
       }
     ]
@@ -490,10 +523,9 @@
     "youtube": "https://www.youtube.com/watch?v=hvMjaCGc4rk&list=RDhvMjaCGc4rk&start_radio=1&pp=ygUcUm9uIElzbGV5IENvbnRhZ2lvdXMgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 4,
-        "start": 4,
-        "end": 0,
-        "duration": 10,
+        "position": 4.687553602068164,
+        "start": 4.687553602068164,
+        "end": 5.641524455651332,
         "timeOfDay": "02:00"
       }
     ]
@@ -505,10 +537,9 @@
     "youtube": "https://www.youtube.com/watch?v=GQsnYFNwOw4&list=RDGQsnYFNwOw4&start_radio=1&pp=ygUYUm9uIElzbGV5IEJ1c3RlZCAgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 17,
-        "start": 17,
-        "end": 0,
-        "duration": 10,
+        "position": 17.965934227693882,
+        "start": 17.965934227693882,
+        "end": 19.197082478348463,
         "timeOfDay": "02:00"
       }
     ]
@@ -520,10 +551,9 @@
     "youtube": "https://www.youtube.com/watch?v=lhCgxhaRQqQ&list=RDlhCgxhaRQqQ&start_radio=1&pp=ygUaU25vb3AgZ2luIGFuZCBqdWljZSBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 40,
-        "start": 40,
-        "end": 0,
-        "duration": 10,
+        "position": 40.61322409586248,
+        "start": 40.61322409586248,
+        "end": 41.358402419099995,
         "timeOfDay": "02:00"
       }
     ]
@@ -535,10 +565,9 @@
     "youtube": "https://www.youtube.com/watch?v=5l8xEnFcSXY&list=RD5l8xEnFcSXY&start_radio=1&pp=ygUZQWFsaXlhaCBjb21lIG92ZXIgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 23,
-        "start": 23,
-        "end": 0,
-        "duration": 10,
+        "position": 24.053709674464596,
+        "start": 24.053709674464596,
+        "end": 25.481871485765737,
         "timeOfDay": "02:15"
       }
     ]
@@ -550,10 +579,9 @@
     "youtube": "https://www.youtube.com/watch?v=DzCGD9PO1Dg&list=RDDzCGD9PO1Dg&start_radio=1&pp=ygUYVGF5bG9yIFN3aWZ0IE1pbmUgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 142,
-        "start": 142,
-        "end": 0,
-        "duration": 10,
+        "position": 142.25466622113203,
+        "start": 142.25466622113203,
+        "end": 144,
         "timeOfDay": "02:30"
       }
     ]
@@ -565,10 +593,9 @@
     "youtube": "https://www.youtube.com/watch?v=F4jZmX1LqPM&list=RDF4jZmX1LqPM&start_radio=1&pp=ygUKb29wcyB0d2VldKAHAQ%3D%3D",
     "times": [
       {
-        "position": 17,
-        "start": 17,
-        "end": 0,
-        "duration": 10,
+        "position": 17.61833024785461,
+        "start": 17.61833024785461,
+        "end": 18.829481160261526,
         "timeOfDay": "02:45"
       }
     ]
@@ -580,10 +607,9 @@
     "youtube": "https://www.youtube.com/watch?v=4kYKNLdEbIk&list=RD4kYKNLdEbIk&start_radio=1&pp=ygUfYWxpY2lhIGtleXMgZ29lcyBhcm91bmQgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 98,
-        "start": 98,
-        "end": 0,
-        "duration": 10,
+        "position": 97.95138974022473,
+        "start": 97.95138974022473,
+        "end": 99.18523498778212,
         "timeOfDay": "03:00"
       }
     ]
@@ -595,10 +621,9 @@
     "youtube": "https://www.youtube.com/watch?v=uvO6DzHwxkw&list=RDuvO6DzHwxkw&start_radio=1&pp=ygUYY2hyaXMgYnJvd24gbm8gYnMgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 21,
-        "start": 21,
-        "end": 0,
-        "duration": 10,
+        "position": 21.759582098892952,
+        "start": 21.759582098892952,
+        "end": 24.21922030322274,
         "timeOfDay": "03:00"
       }
     ]
@@ -610,10 +635,9 @@
     "youtube": "https://www.youtube.com/watch?v=jYMPcrf0YbQ&list=RDjYMPcrf0YbQ&start_radio=1&pp=ygURZW1pbmVtIDNhbSBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 81,
-        "start": 81,
-        "end": 0,
-        "duration": 10,
+        "position": 82.57922289684856,
+        "start": 82.57922289684856,
+        "end": 84.22899236931102,
         "timeOfDay": "03:00"
       }
     ]
@@ -625,10 +649,9 @@
     "youtube": "https://www.youtube.com/watch?v=Pjm3poSxi0A&list=RDPjm3poSxi0A&start_radio=1&pp=ygUWamFtaWUgZm94eCBzbG93IGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 179,
-        "start": 179,
-        "end": 0,
-        "duration": 10,
+        "position": 179.84348020980838,
+        "start": 179.84348020980838,
+        "end": 180.99787914652728,
         "timeOfDay": "03:00"
       }
     ]
@@ -640,10 +663,9 @@
     "youtube": "https://www.youtube.com/watch?v=a_sR2ZNIPwQ&list=RDa_sR2ZNIPwQ&start_radio=1&pp=ygUTSmVlenkgMyBBLk0uIGx5cmljc6AHAdIHCQneCQGHKiGM7w%3D%3D",
     "times": [
       {
-        "position": 52,
-        "start": 52,
-        "end": 0,
-        "duration": 10,
+        "position": 53.00201662828865,
+        "start": 53.00201662828865,
+        "end": 54.467510844393814,
         "timeOfDay": "03:00"
       }
     ]
@@ -655,10 +677,9 @@
     "youtube": "https://www.youtube.com/watch?v=otMkwi4CCC4&list=RDotMkwi4CCC4&start_radio=1&ab_channel=K-Ci%26JoJo-Topic",
     "times": [
       {
-        "position": 18,
-        "start": 18,
-        "end": 0,
-        "duration": 10,
+        "position": 19.6517185637712,
+        "start": 19.6517185637712,
+        "end": 20.602798652405177,
         "timeOfDay": "03:00"
       }
     ]
@@ -670,10 +691,9 @@
     "youtube": "https://www.youtube.com/watch?v=ro0ytqMxP7M&list=RDro0ytqMxP7M&start_radio=1&ab_channel=Babysnoop",
     "times": [
       {
-        "position": 28,
-        "start": 28,
-        "end": 0,
-        "duration": 10,
+        "position": 28.71331161773457,
+        "start": 28.71331161773457,
+        "end": 30.782414164342377,
         "timeOfDay": "03:00"
       }
     ]
@@ -685,10 +705,9 @@
     "youtube": "https://www.youtube.com/watch?v=qouX8CevT4w&list=RDqouX8CevT4w&start_radio=1&pp=ygURbmFzIHJld2luZCBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 98,
-        "start": 98,
-        "end": 0,
-        "duration": 10,
+        "position": 98.29575567562176,
+        "start": 98.29575567562176,
+        "end": 99.42819522451569,
         "timeOfDay": "03:00"
       }
     ]
@@ -702,8 +721,7 @@
       {
         "position": 142.85075,
         "start": 142.85075,
-        "end": 0,
-        "duration": 10,
+        "end": 143.41103022847588,
         "timeOfDay": "03:00"
       }
     ]
@@ -715,10 +733,9 @@
     "youtube": "https://www.youtube.com/watch?v=4hR_Bxxr8xM&list=RD4hR_Bxxr8xM&start_radio=1&pp=ygUZVHJleSBTb25neiAxIGJ5IDEgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 0,
-        "start": 0,
-        "end": 0,
-        "duration": 10,
+        "position": 0.4499985786087545,
+        "start": 0.4499985786087545,
+        "end": 1.2015173876105323,
         "timeOfDay": "03:00"
       }
     ]
@@ -730,10 +747,9 @@
     "youtube": "https://www.youtube.com/watch?v=aLZ5mUkrU9I&list=RDaLZ5mUkrU9I&start_radio=1&pp=ygUXVHJpbmEgSGVyZSB3ZSBnbyBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 23,
-        "start": 23,
-        "end": 0,
-        "duration": 10,
+        "position": 24.07590307976772,
+        "start": 24.07590307976772,
+        "end": 26.306503374465027,
         "timeOfDay": "03:00"
       }
     ]
@@ -745,10 +761,9 @@
     "youtube": "https://www.youtube.com/watch?v=Y9ZoD0wNsJM&list=RDY9ZoD0wNsJM&start_radio=1&pp=ygUlV2hpdG5leSBIb3VzdG9uIGl0cyBub3QgcmlnaHQgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 21,
-        "start": 21,
-        "end": 0,
-        "duration": 10,
+        "position": 22.018460098169406,
+        "start": 22.018460098169406,
+        "end": 23,
         "timeOfDay": "03:00"
       }
     ]
@@ -760,10 +775,9 @@
     "youtube": "https://www.youtube.com/watch?v=y0FLSmRmLLA&list=RDy0FLSmRmLLA&start_radio=1&pp=ygUlRG9ubmVsbCBKb25lcyB3aGF0cyBpdHMgZ29uIGJlIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 50,
-        "start": 50,
-        "end": 0,
-        "duration": 10,
+        "position": 50.55459337376598,
+        "start": 50.55459337376598,
+        "end": 51.92387072252304,
         "timeOfDay": "03:15"
       }
     ]
@@ -775,10 +789,9 @@
     "youtube": "https://www.youtube.com/watch?v=u71foxu01vQ&list=RDu71foxu01vQ&start_radio=1&pp=ygUdamEgUnVsZSBhbHdheXMgb24gdGltZSBseXJpY3OgBwHSBwkJsgkBhyohjO8%3D",
     "times": [
       {
-        "position": 59,
-        "start": 59,
-        "end": 0,
-        "duration": 10,
+        "position": 59.34592160727984,
+        "start": 59.34592160727984,
+        "end": 60.12407594216003,
         "timeOfDay": "03:15"
       }
     ]
@@ -790,14 +803,57 @@
     "youtube": "https://www.youtube.com/watch?v=CyaS3x1rSGM&list=RDCyaS3x1rSGM&start_radio=1&pp=ygUgY2hyaXMgYnJvd24gYmFjayB0byBzbGVlcCBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 46,
-        "start": 46,
-        "end": 0,
-        "duration": 10,
+        "position": 46.57165545876351,
+        "start": 46.57165545876351,
+        "end": 47.95044968542588,
         "timeOfDay": "03:30"
       }
     ]
   },
+
+  {
+    "artist": "Melanie Fiona",
+    "title": "4am",
+    "mp3": "scl/fi/q73sqgel584awvr48eyug/Melanie-Fiona-4AM-Lyrics-4.mp3?rlkey=6c076zke46p9omfl9xt0uv80n&st=7olcf695&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=ezgNtzhyosw&list=RDezgNtzhyosw&start_radio=1&pp=ygUXbWVsbm95IGZpYW5vIDRhbSBseXJpY3OgBwHSBwkJsgkBhyohjO8%3D",
+    "times": [
+      {
+        "position": 54.03958551147555,
+        "start": 54.03958551147555,
+        "end": 55.29542240615686,
+        "timeOfDay": "04:00"
+      }
+    ]
+  },
+  {
+    "artist": "R. Kelly",
+    "title": "Ignition (remix)",
+    "mp3": "scl/fi/nd9efvufim74rzveoxs6o/Ignition-Remix-4.mp3?rlkey=5j9dfoc6v42dm7u215gxsbuqi&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=NgezDszLcFM&list=RDNgezDszLcFM&start_radio=1&pp=ygUYUi4gS2VsbHkgSWduaXRpb24gbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 112.91770916573486,
+        "start": 112.91770916573486,
+        "end": 113.71874960596278,
+        "timeOfDay": "04:00"
+      }
+    ]
+  },
+  {
+    "artist": "Rihanna",
+    "title": "Pour It Up",
+    "mp3": "scl/fi/z7hi0pzp2t282gwistca9/Rihanna-Pour-It-Up-Lyrics.mp3?rlkey=t8wvqyjg4wz5sei2dd6urvfrg&dl=1",
+    "youtube": "",
+    "times": [
+      {
+        "position": 25.432518880551072,
+        "start": 25.432518880551072,
+        "end": 25.8520907357589,
+        "timeOfDay": "04:00"
+      }
+    ]
+  },
+
   {
     "artist": "2Chainz",
     "title": "4 AM",
@@ -805,10 +861,9 @@
     "youtube": "https://www.youtube.com/watch?v=xXSk0iFUKKQ&list=RDxXSk0iFUKKQ&start_radio=1&pp=ygUTMkNoYWlueiA0IEFNIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 13,
-        "start": 13,
-        "end": 0,
-        "duration": 10,
+        "position": 14.004412436494475,
+        "start": 14.004412436494475,
+        "end": 14.893316191958077,
         "timeOfDay": "04:00"
       }
     ]
@@ -822,53 +877,7 @@
       {
         "position": 30,
         "start": 30,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "04:00"
-      }
-    ]
-  },
-  {
-    "artist": "Melanie Fiona",
-    "title": "4am",
-    "mp3": "scl/fi/q73sqgel584awvr48eyug/Melanie-Fiona-4AM-Lyrics-4.mp3?rlkey=6c076zke46p9omfl9xt0uv80n&st=7olcf695&dl=1",
-    "youtube": "https://www.youtube.com/watch?v=ezgNtzhyosw&list=RDezgNtzhyosw&start_radio=1&pp=ygUXbWVsbm95IGZpYW5vIDRhbSBseXJpY3OgBwHSBwkJsgkBhyohjO8%3D",
-    "times": [
-      {
-        "position": 53,
-        "start": 53,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "04:00"
-      }
-    ]
-  },
-  {
-    "artist": "R. Kelly",
-    "title": "Ignition (remix)",
-    "mp3": "scl/fi/nd9efvufim74rzveoxs6o/Ignition-Remix-4.mp3?rlkey=5j9dfoc6v42dm7u215gxsbuqi&dl=1",
-    "youtube": "https://www.youtube.com/watch?v=NgezDszLcFM&list=RDNgezDszLcFM&start_radio=1&pp=ygUYUi4gS2VsbHkgSWduaXRpb24gbHlyaWNzoAcB",
-    "times": [
-      {
-        "position": 113,
-        "start": 113,
-        "end": 0,
-        "duration": 10,
-        "timeOfDay": "04:00"
-      }
-    ]
-  },
-  {
-    "artist": "Rihanna",
-    "title": "Pour It Up",
-    "mp3": "scl/fi/z7hi0pzp2t282gwistca9/Rihanna-Pour-It-Up-Lyrics.mp3?rlkey=t8wvqyjg4wz5sei2dd6urvfrg&dl=1",
-    "youtube": "",
-    "times": [
-      {
-        "position": 25.4,
-        "start": 25.4,
-        "end": 0,
-        "duration": 12,
+        "end": 31.04249855122214,
         "timeOfDay": "04:00"
       }
     ]
@@ -880,10 +889,9 @@
     "youtube": "https://www.youtube.com/watch?v=w6B6pNJqZqo&list=RDw6B6pNJqZqo&start_radio=1&pp=ygUuSCB0b3duIHRoaW4gbGluZSBiZXR3ZWVuIGxvdmUgYW5kIGhhdGUgIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 34,
-        "start": 34,
-        "end": 0,
-        "duration": 10,
+        "position": 33.81387266813299,
+        "start": 33.81387266813299,
+        "end": 36.779541085672975,
         "timeOfDay": "05:00"
       }
     ]
@@ -895,10 +903,9 @@
     "youtube": "https://www.youtube.com/watch?v=LYJ00WFtP-Y&list=RDLYJ00WFtP-Y&start_radio=1&pp=ygUsTm9uY2hhbGFudCA1IG_igJljbG9jayBpbiB0aGUgbW9ybmluZyBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 68,
-        "start": 68,
-        "end": 0,
-        "duration": 10,
+        "position": 68.80373214798307,
+        "start": 68.80373214798307,
+        "end": 70.96466002223781,
         "timeOfDay": "05:00"
       }
     ]
@@ -910,14 +917,14 @@
     "youtube": "https://www.youtube.com/watch?v=zkXxc337T34",
     "times": [
       {
-        "position": 151,
-        "start": 151,
-        "end": 0,
-        "duration": 10,
+        "position": 150.95029727658326,
+        "start": 150.95029727658326,
+        "end": 151.7752327996143,
         "timeOfDay": "05:00"
       }
     ]
   },
+
   {
     "artist": "Pretty Ricky",
     "title": "Hotline",
@@ -925,10 +932,9 @@
     "youtube": "https://www.youtube.com/watch?v=_UgokWe3DaQ&list=RD_UgokWe3DaQ&start_radio=1&pp=ygUccHJldHR5IHJpY2tleSBob3RsaW5lIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 20,
-        "start": 20,
-        "end": 0,
-        "duration": 10,
+        "position": 20.996967443414935,
+        "start": 20.996967443414935,
+        "end": 23.355210216373123,
         "timeOfDay": "05:00"
       }
     ]
@@ -940,10 +946,9 @@
     "youtube": "https://www.youtube.com/watch?v=noLrCDzAp5M&list=RDnoLrCDzAp5M&start_radio=1&pp=ygUZdC1wYWluIDUgb-KAmWNsb2NrIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 7,
-        "start": 7,
-        "end": 0,
-        "duration": 10,
+        "position": 7.525843218872561,
+        "start": 7.525843218872561,
+        "end": 9.353111418771478,
         "timeOfDay": "05:00"
       }
     ]
@@ -955,10 +960,9 @@
     "youtube": "",
     "times": [
       {
-        "position": 16.6,
-        "start": 16.6,
-        "end": 0,
-        "duration": 12,
+        "position": 16.846602122433158,
+        "start": 16.846602122433158,
+        "end": 18.470726254124475,
         "timeOfDay": "05:00"
       }
     ]
@@ -972,8 +976,7 @@
       {
         "position": 45,
         "start": 45,
-        "end": 0,
-        "duration": 10,
+        "end": 47.29532087141556,
         "timeOfDay": "05:30"
       }
     ]
@@ -985,10 +988,9 @@
     "youtube": "https://www.youtube.com/watch?v=0Hph3PTeL5Y&list=RD0Hph3PTeL5Y&start_radio=1&pp=ygUVYmlnZ2llIFdhcm5pbmcgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 19,
-        "start": 19,
-        "end": 0,
-        "duration": 10,
+        "position": 19.496435294030125,
+        "start": 19.496435294030125,
+        "end": 21.49559653090765,
         "timeOfDay": "05:46"
       }
     ]
@@ -1002,8 +1004,7 @@
       {
         "position": 39.7,
         "start": 39.7,
-        "end": 0,
-        "duration": 10,
+        "end": 41.050307399964005,
         "timeOfDay": "06:00"
       }
     ]
@@ -1015,10 +1016,9 @@
     "youtube": "https://www.youtube.com/watch?v=h-a0Yootc68&list=RDh-a0Yootc68&start_radio=1&pp=ygUdQ2Fzc2lkeSBnZXQgbm8gYmV0dGVyICBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 47.5,
-        "start": 47.5,
-        "end": 0,
-        "duration": 10,
+        "position": 47.64719391867977,
+        "start": 47.64719391867977,
+        "end": 48.4626484897607,
         "timeOfDay": "06:00"
       }
     ]
@@ -1032,8 +1032,7 @@
       {
         "position": 66.3,
         "start": 66.3,
-        "end": 0,
-        "duration": 10,
+        "end": 67.50797317620302,
         "timeOfDay": "06:00"
       }
     ]
@@ -1045,10 +1044,9 @@
     "youtube": "https://www.youtube.com/watch?v=7gqbPVE_nMI&list=RD7gqbPVE_nMI&start_radio=1&ab_channel=D12-Topic",
     "times": [
       {
-        "position": 97,
-        "start": 97,
-        "end": 0,
-        "duration": 10,
+        "position": 97.14060843331472,
+        "start": 97.14060843331472,
+        "end": 98.2482125418527,
         "timeOfDay": "06:00"
       }
     ]
@@ -1060,10 +1058,9 @@
     "youtube": "https://www.youtube.com/watch?v=yc2aDKmjtGs&list=RDyc2aDKmjtGs&start_radio=1&pp=ygUfSC5FLlIuIDYgaW4gdGhlIG1vcm5pbmcgIGx5cmljc6AHAdIHCQmyCQGHKiGM7w%3D%3D",
     "times": [
       {
-        "position": 49.6,
-        "start": 49.6,
-        "end": 0,
-        "duration": 10,
+        "position": 49.770778346850676,
+        "start": 49.770778346850676,
+        "end": 51.368761687318845,
         "timeOfDay": "06:00"
       }
     ]
@@ -1075,10 +1072,9 @@
     "youtube": "https://www.youtube.com/watch?v=mew4iWgqaDY&list=RDmew4iWgqaDY&start_radio=1&pp=ygUeSWNlIFQgNiBpbiB0aGUgbW9ybmluZyAgbHlyaWNzoAcB0gcJCbIJAYcqIYzv",
     "times": [
       {
-        "position": 1,
-        "start": 1,
-        "end": 0,
-        "duration": 10,
+        "position": 1.2779937587935783,
+        "start": 1.2779937587935783,
+        "end": 2.1906216522403605,
         "timeOfDay": "06:00"
       }
     ]
@@ -1090,10 +1086,9 @@
     "youtube": "https://www.youtube.com/watch?v=i9SvvlsTxp0&list=RDi9SvvlsTxp0&start_radio=1&pp=ygUfbWFycXVlcyBob3VzdG9uIGNsdWJiaW4gIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 95,
-        "start": 95,
-        "end": 0,
-        "duration": 10,
+        "position": 95.29243573509743,
+        "start": 95.29243573509743,
+        "end": 96.65679759916281,
         "timeOfDay": "06:00"
       }
     ]
@@ -1105,10 +1100,9 @@
     "youtube": "https://www.youtube.com/watch?v=AUeXTn75yeQ",
     "times": [
       {
-        "position": 30,
-        "start": 30,
-        "end": 0,
-        "duration": 10,
+        "position": 30.621160629338718,
+        "start": 30.621160629338718,
+        "end": 32.09609634236889,
         "timeOfDay": "06:00"
       }
     ]
@@ -1122,8 +1116,7 @@
       {
         "position": 39.6,
         "start": 39.6,
-        "end": 0,
-        "duration": 10,
+        "end": 40.99226292201451,
         "timeOfDay": "06:00"
       }
     ]
@@ -1135,15 +1128,28 @@
     "youtube": "https://www.youtube.com/watch?v=wkknOaJe174&list=RDwkknOaJe174&start_radio=1&pp=ygUTVXNoZXIgUGFwZXJzIGx5cmljc6AHAQ%3D%3D",
     "times": [
       {
-        "position": 25.4,
-        "start": 25.4,
-        "end": 0,
-        "duration": 10,
+        "position": 25.663089654127987,
+        "start": 25.663089654127987,
+        "end": 27.4,
         "timeOfDay": "06:00"
       }
     ]
   },
-  {"artist":"R. kelly","title":"trapped in the closet pt 1 ","mp3":"scl/fi/ixmw2i4k6op5s0jwa94ik/R.-Kelly-Trapped-in-the-Closet-Chapter-1.mp3?rlkey=uvaupcsnkvaqkxx1dsye3o2nr&st=7lmtfm2x&dl=1","youtube":"https://www.youtube.com/watch?v=9mAyscj-NcU&list=RD9mAyscj-NcU&start_radio=1&pp=ygUrUi4ga2VsbHkgdHJhcHBlZCBpbiB0aGUgY2xvc2V0IHB0IDEgIGx5cmljc6AHAQ%3D%3D","times":[{"position":34.5157454795212,"start":34.5157454795212,"end":35.8315502773431,"timeOfDay":"07:00"}]},
+
+  {
+    "artist": "R. kelly",
+    "title": "trapped in the closet pt 1 ",
+    "mp3": "scl/fi/ixmw2i4k6op5s0jwa94ik/R.-Kelly-Trapped-in-the-Closet-Chapter-1.mp3?rlkey=uvaupcsnkvaqkxx1dsye3o2nr&st=7lmtfm2x&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=9mAyscj-NcU&list=RD9mAyscj-NcU&start_radio=1&pp=ygUrUi4ga2VsbHkgdHJhcHBlZCBpbiB0aGUgY2xvc2V0IHB0IDEgIGx5cmljc6AHAQ%3D%3D",
+    "times": [
+      {
+        "position": 34.5157454795212,
+        "start": 34.5157454795212,
+        "end": 35.8315502773431,
+        "timeOfDay": "07:00"
+      }
+    ]
+  },
   {
     "artist": "Rebecca Black",
     "title": "Friday",
@@ -1151,10 +1157,9 @@
     "youtube": "https://www.youtube.com/watch?v=DPVTl9K0lqc&list=RDDPVTl9K0lqc&start_radio=1&pp=ygUbUmViZWNjYSBCbGFjayBGcmlkYXkgbHlyaWNzoAcB",
     "times": [
       {
-        "position": 17,
-        "start": 17,
-        "end": 0,
-        "duration": 10,
+        "position": 17.950802965437514,
+        "start": 17.950802965437514,
+        "end": 18.63154612421186,
         "timeOfDay": "07:00"
       }
     ]
@@ -1166,17 +1171,61 @@
     "youtube": "https://www.youtube.com/watch?v=7BIuQKKHRWo&list=RD7BIuQKKHRWo&start_radio=1&pp=ygUdYmlnZ2llIE9uZSBtb3JlIGNoYW5jZSBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 219,
-        "start": 219,
-        "end": 0,
-        "duration": 10,
+        "position": 218.99844653234805,
+        "start": 218.99844653234805,
+        "end": 219.419491308908,
+        "timeOfDay": "08:00"
+      },
+      {
+        "position": 220.22841563939014,
+        "start": 220.22841563939014,
+        "end": 220.57649899574642,
+        "timeOfDay": "09:00"
+      }
+    ]
+  },
+  {
+    "artist": "jermaine dupree",
+    "title": "welcome 2 atlanta ",
+    "mp3": "scl/fi/kztw0gaxpkcbf8a7lxz9v/Welcome-to-Atlanta-4.mp3?rlkey=6tldq6lyxpxfz30wus6047ici&st=ngdw9qyx&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=V1cEijFVSNs&list=RDV1cEijFVSNs&start_radio=1&pp=ygUpamVybWFpbmUgZHVwcmVlIHdlbGNvbWUgMiBhdGxhbnRhICBseXJpY3OgBwE%3D",
+    "times": [
+      {
+        "position": 88.42732675176481,
+        "start": 88.42732675176481,
+        "end": 89.736056497519,
         "timeOfDay": "08:00"
       }
     ]
   },
-  {"artist":"jermaine dupree","title":"welcome 2 atlanta ","mp3":"scl/fi/kztw0gaxpkcbf8a7lxz9v/Welcome-to-Atlanta-4.mp3?rlkey=6tldq6lyxpxfz30wus6047ici&st=ngdw9qyx&dl=1","youtube":"https://www.youtube.com/watch?v=V1cEijFVSNs&list=RDV1cEijFVSNs&start_radio=1&pp=ygUpamVybWFpbmUgZHVwcmVlIHdlbGNvbWUgMiBhdGxhbnRhICBseXJpY3OgBwE%3D","times":[{"position":88.42732675176481,"start":88.42732675176481,"end":89.736056497519,"timeOfDay":"08:00"}]},
-  {"artist":"Beyonce","title":"Run The World","mp3":"scl/fi/wpqv2qyb1v0gn472naszk/Beyonc-Run-The-World-Girls-Lyrics-HD-4.mp3?rlkey=kmex1znbz05seo062xy5hsex0&dl=1","youtube":"https://www.youtube.com/watch?v=VfDlsHnlpWs","times":[{"position":135.5235372808676,"start":135.5235372808676,"end":136.1860891670857,"timeOfDay":"09:00"}]},
-  {"artist":"Chris Brown","title":"No Guidance","mp3":"scl/fi/dur1s3q7rz0096vmjwp84/Chris-Brown-No-Guidance-Audio-ft.-Drake-4.mp3?rlkey=ykgbwrtq72ckziuagg25bmcs7&dl=1","youtube":"https://www.youtube.com/watch?v=oOni4BMeMp0","times":[{"position":65.11478013430802,"start":65.11478013430802,"end":65.62575541642933,"timeOfDay":"09:00"}]},
+  {
+    "artist": "Beyonce",
+    "title": "Run The World",
+    "mp3": "scl/fi/wpqv2qyb1v0gn472naszk/Beyonc-Run-The-World-Girls-Lyrics-HD-4.mp3?rlkey=kmex1znbz05seo062xy5hsex0&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=VfDlsHnlpWs",
+    "times": [
+      {
+        "position": 135.5235372808676,
+        "start": 135.5235372808676,
+        "end": 136.1860891670857,
+        "timeOfDay": "09:00"
+      }
+    ]
+  },
+  {
+    "artist": "Chris Brown",
+    "title": "No Guidance",
+    "mp3": "scl/fi/dur1s3q7rz0096vmjwp84/Chris-Brown-No-Guidance-Audio-ft.-Drake-4.mp3?rlkey=ykgbwrtq72ckziuagg25bmcs7&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=oOni4BMeMp0",
+    "times": [
+      {
+        "position": 65.11478013430802,
+        "start": 65.11478013430802,
+        "end": 65.62575541642933,
+        "timeOfDay": "09:00"
+      }
+    ]
+  },
   {
     "artist": "Christina Aguilera",
     "title": "Lady Marmalade",
@@ -1184,10 +1233,9 @@
     "youtube": "https://www.youtube.com/watch?v=R_2KBreSXZc&list=RDR_2KBreSXZc&start_radio=1&pp=ygUObGFkeSBtYXJtYWxhZGWgBwHSBwkJsgkBhyohjO8%3D",
     "times": [
       {
-        "position": 181,
-        "start": 181,
-        "end": 0,
-        "duration": 10,
+        "position": 181.31144183839143,
+        "start": 181.31144183839143,
+        "end": 183.80411722683266,
         "timeOfDay": "09:00"
       }
     ]
@@ -1199,10 +1247,9 @@
     "youtube": "https://www.youtube.com/watch?v=GWSQ0Avb9GY&list=RDGWSQ0Avb9GY&start_radio=1&pp=ygUddHJleSBzb25neiBqdXN0IGdvdHRhIG1ha2UgaXSgBwE%3D",
     "times": [
       {
-        "position": 28,
-        "start": 28,
-        "end": 0,
-        "duration": 10,
+        "position": 28.446286307005888,
+        "start": 28.446286307005888,
+        "end": 29.747839213216643,
         "timeOfDay": "09:00"
       }
     ]
@@ -1214,10 +1261,9 @@
     "youtube": "https://www.youtube.com/watch?v=VfDlsHnlpWs",
     "times": [
       {
-        "position": 41,
-        "start": 41,
-        "end": 0,
-        "duration": 10,
+        "position": 42.447602231848464,
+        "start": 42.447602231848464,
+        "end": 43.07065741151067,
         "timeOfDay": "09:00"
       }
     ]
@@ -1229,11 +1275,16 @@
     "youtube": "https://www.youtube.com/watch?v=jMfe2NEyOiM&list=RDjMfe2NEyOiM&start_radio=1&pp=ygURU1pBIEJyb2tlbiBseXJpY3OgBwE%3D",
     "times": [
       {
-        "position": 104,
-        "start": 104,
-        "end": 0,
-        "duration": 10,
+        "position": 103.99556106236729,
+        "start": 103.99556106236729,
+        "end": 105.29121910812779,
         "timeOfDay": "10:00"
+      },
+      {
+        "position": 106.14092656377726,
+        "start": 106.14092656377726,
+        "end": 107.31168373921157,
+        "timeOfDay": "20:00"
       }
     ]
   },
@@ -1244,10 +1295,9 @@
     "youtube": "https://www.youtube.com/watch?v=LFwe0C3olaw&ab_channel=music15",
     "times": [
       {
-        "position": 14.8,
-        "start": 14.8,
-        "end": 0,
-        "duration": 10,
+        "position": 15.373843753699102,
+        "start": 15.373843753699102,
+        "end": 15.732260994959354,
         "timeOfDay": "11:00"
       }
     ]
@@ -1261,8 +1311,7 @@
       {
         "position": 94,
         "start": 94,
-        "end": 0,
-        "duration": 10,
+        "end": 94.48316603864487,
         "timeOfDay": "12:00"
       }
     ]
@@ -1274,10 +1323,9 @@
     "youtube": "",
     "times": [
       {
-        "position": 104,
-        "start": 104,
-        "end": 0,
-        "duration": 12,
+        "position": 104.23956261297525,
+        "start": 104.23956261297525,
+        "end": 105.58603005551404,
         "timeOfDay": "12:00"
       }
     ]
@@ -1289,17 +1337,55 @@
     "youtube": "https://www.youtube.com/watch?v=iN1hkyZdFgY&list=RDiN1hkyZdFgY&start_radio=1&ab_channel=Redman",
     "times": [
       {
-        "position": 2,
-        "start": 2,
-        "end": 0,
-        "duration": 12,
+        "position": 2.0870203147315927,
+        "start": 2.0870203147315927,
+        "end": 2.706934679441443,
         "timeOfDay": "13:00"
       }
     ]
   },
-  {"artist":"Blackstreet","title":"No Diggity","mp3":"scl/fi/tv1ftecs3xg3tejyl32hk/Blackstreet-No-Diggity-ft.-Dr.-Dre-Queen-Pen-Lyrics-4.mp3?rlkey=zbhak8e70jsmlu3lwtav70am1&dl=1","youtube":"https://www.youtube.com/watch?v=IRgNDaNfci4&list=RDIRgNDaNfci4&start_radio=1&pp=ygUdQmxhY2tzdHJlZXQgTm8gRGlnZ2l0eSBseXJpY3OgBwE%3D","times":[{"position":235.89328828524185,"start":235.89328828524185,"end":236.65078367538294,"timeOfDay":"15:30"}]},
-  {"artist":"will smith","title":"summertime","mp3":"scl/fi/9117w1zgg2sfsyipuf3fi/DJ-Jazzy-Jeff-The-Fresh-Prince-Summertime-Lyrics-4.mp3?rlkey=vxmwn8dbio9bd68fe1g9wf1li&st=ndgvg8sd&dl=1","youtube":"https://www.youtube.com/watch?v=bBs60R9qahI&list=RDbBs60R9qahI&start_radio=1&pp=ygUcd2lsbCBzbWl0aCBzdW1tZXJ0aW1lIGx5cmljc6AHAQ%3D%3D","times":[{"position":165.50828964600203,"start":165.50828964600203,"end":166.06744664399042,"timeOfDay":"16:00"}]},
-  {"artist":"Jill Scott","title":"The Way","mp3":"scl/fi/utggemeg71yvbv8m988tl/The-Way-Jill-Scott.mp3?rlkey=4d4iegeqyh64yrsnr9xm2bfu1&dl=1","youtube":"","times":[{"position":118.66833045474596,"start":118.66833045474596,"end":119.82865838485787,"timeOfDay":"16:30"}]},
+  {
+    "artist": "Blackstreet",
+    "title": "No Diggity",
+    "mp3": "scl/fi/tv1ftecs3xg3tejyl32hk/Blackstreet-No-Diggity-ft.-Dr.-Dre-Queen-Pen-Lyrics-4.mp3?rlkey=zbhak8e70jsmlu3lwtav70am1&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=IRgNDaNfci4&list=RDIRgNDaNfci4&start_radio=1&pp=ygUdQmxhY2tzdHJlZXQgTm8gRGlnZ2l0eSBseXJpY3OgBwE%3D",
+    "times": [
+      {
+        "position": 235.89328828524185,
+        "start": 235.89328828524185,
+        "end": 236.65078367538294,
+        "timeOfDay": "15:30"
+      }
+    ]
+  },
+  {
+    "artist": "will smith",
+    "title": "summertime",
+    "mp3": "scl/fi/9117w1zgg2sfsyipuf3fi/DJ-Jazzy-Jeff-The-Fresh-Prince-Summertime-Lyrics-4.mp3?rlkey=vxmwn8dbio9bd68fe1g9wf1li&st=ndgvg8sd&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=bBs60R9qahI&list=RDbBs60R9qahI&start_radio=1&pp=ygUcd2lsbCBzbWl0aCBzdW1tZXJ0aW1lIGx5cmljc6AHAQ%3D%3D",
+    "times": [
+      {
+        "position": 165.50828964600203,
+        "start": 165.50828964600203,
+        "end": 166.06744664399042,
+        "timeOfDay": "16:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jill Scott",
+    "title": "The Way",
+    "mp3": "scl/fi/utggemeg71yvbv8m988tl/The-Way-Jill-Scott.mp3?rlkey=4d4iegeqyh64yrsnr9xm2bfu1&dl=1",
+    "youtube": "",
+    "times": [
+      {
+        "position": 118.66833045474596,
+        "start": 118.66833045474596,
+        "end": 119.82865838485787,
+        "timeOfDay": "16:30"
+      }
+    ]
+  },
   {
     "artist": "Teezo Touchdown",
     "title": "5 O'Clock",
@@ -1307,27 +1393,347 @@
     "youtube": "https://www.youtube.com/watch?v=-QOyxTbi5J0&list=RD-QOyxTbi5J0&start_radio=1&ab_channel=TeezoTouchdown",
     "times": [
       {
-        "position": 85,
-        "start": 85,
-        "end": 0,
-        "duration": 12,
+        "position": 85.41472180282427,
+        "start": 85.41472180282427,
+        "end": 86.15429887855883,
         "timeOfDay": "17:00"
+      },
+      {
+        "position": 19.91969904213168,
+        "start": 19.91969904213168,
+        "end": 20.940514326185724,
+        "timeOfDay": "08:00"
+      },
+      {
+        "position": 25.462641760854304,
+        "start": 25.462641760854304,
+        "end": 26.55750330836315,
+        "timeOfDay": "08:30"
+      },
+      {
+        "position": 26.57181001854673,
+        "start": 26.57181001854673,
+        "end": 28.28262030204531,
+        "timeOfDay": "09:00"
+      },
+      {
+        "position": 30.181468173009424,
+        "start": 30.181468173009424,
+        "end": 30.84846816197737,
+        "timeOfDay": "10:00"
+      },
+      {
+        "position": 33.630755318659546,
+        "start": 33.630755318659546,
+        "end": 34.233485054429195,
+        "timeOfDay": "12:00"
+      },
+      {
+        "position": 37.02181101770476,
+        "start": 37.02181101770476,
+        "end": 37.499011884910075,
+        "timeOfDay": "12:15"
+      },
+      {
+        "position": 38.69966439773798,
+        "start": 38.69966439773798,
+        "end": 39.22846146279299,
+        "timeOfDay": "12:30"
+      },
+      {
+        "position": 40.39749518428749,
+        "start": 40.39749518428749,
+        "end": 41.511084307249824,
+        "timeOfDay": "12:45"
+      },
+      {
+        "position": 43.86628626893956,
+        "start": 43.86628626893956,
+        "end": 44.51682437364069,
+        "timeOfDay": "13:00"
+      },
+      {
+        "position": 47.32703413310816,
+        "start": 47.32703413310816,
+        "end": 47.92435281542283,
+        "timeOfDay": "13:30"
+      },
+      {
+        "position": 50.74317057488588,
+        "start": 50.74317057488588,
+        "end": 51.93075639958525,
+        "timeOfDay": "13:01"
+      },
+      {
+        "position": 54.17488570068249,
+        "start": 54.17488570068249,
+        "end": 55.27148044535511,
+        "timeOfDay": "13:35"
+      },
+      {
+        "position": 57.60564283031228,
+        "start": 57.60564283031228,
+        "end": 58.69770736661536,
+        "timeOfDay": "13:38"
+      },
+      {
+        "position": 60.984750776560276,
+        "start": 60.984750776560276,
+        "end": 61.653476468802126,
+        "timeOfDay": "14:00"
+      },
+      {
+        "position": 64.47898443479954,
+        "start": 64.47898443479954,
+        "end": 65.07165598675988,
+        "timeOfDay": "14:30"
+      },
+      {
+        "position": 67.92560713147549,
+        "start": 67.92560713147549,
+        "end": 68.32412345816743,
+        "timeOfDay": "15:00"
+      },
+      {
+        "position": 71.3327951083529,
+        "start": 71.3327951083529,
+        "end": 71.72189621744799,
+        "timeOfDay": "15:15"
+      },
+      {
+        "position": 74.5668742721089,
+        "start": 74.5668742721089,
+        "end": 75.17352255994537,
+        "timeOfDay": "16:00"
+      },
+      {
+        "position": 82.12705811581095,
+        "start": 82.12705811581095,
+        "end": 83.27248068969759,
+        "timeOfDay": "16:45"
       }
     ]
   },
-  {"artist":"Eminem","title":"Chloreseptic ","mp3":"scl/fi/ic4qvn0drkvwhbgj2zjqd/Chloraseptic-Remix-4.mp3?rlkey=hudd1zn6kpa7glo9txpoe2lpd&st=82pe3yjt&dl=1","youtube":"https://www.youtube.com/watch?v=weco8BPLDDM&list=RDweco8BPLDDM&start_radio=1&pp=ygUbRW1pbmVtIENobG9yZXNlcHRpYyAgbHlyaWNzoAcB","times":[{"position":63.527959267134904,"start":63.527959267134904,"end":64.29580124358891,"timeOfDay":"18:00"}]},
-  {"artist":"Ariana Grande","title":"Six Thirty","mp3":"scl/fi/dacfmfunvuolwn95tpvng/Ariana-Grande-six-thirty-Lyric-Video.mp3?rlkey=np4przb7zbsqgrfja299ihf74&dl=1","youtube":"https://www.youtube.com/watch?v=MpX9_ECPfCY&list=RDMpX9_ECPfCY&start_radio=1&pp=ygUfQXJpYW5hIEdyYW5kZSBTaXggVGhpcnR5IGx5cmljc6AHAQ%3D%3D","times":[{"position":104.85251063036375,"start":104.85251063036375,"end":105.71749882461225,"timeOfDay":"18:30"}]},
-  {"artist":"do or die","title":"po pimp","mp3":"scl/fi/31gq8qbr3rs3ayt933rdv/Do-or-Die-Po-Pimp-Lyric-Video.mp3?rlkey=78vathjkf520xrp9xhd83232e&st=oyvl2ujc&dl=1","youtube":"https://www.youtube.com/watch?v=tXghG6hmeWc&list=RDtXghG6hmeWc&start_radio=1&pp=ygUYZG8gb3IgZGllIHBvIHBpbXAgbHlyaWNzoAcB","times":[{"position":13.82611101148567,"start":13.82611101148567,"end":14.991452057534213,"timeOfDay":"19:00"}]},
-  {"artist":"glorilla","title":"TGIF ","mp3":"scl/fi/w5b3ma7e5kegv2z11iaxm/GloRilla-TGIF-Lyrics-4.mp3?rlkey=pa0ueq9r0xph8jg0ersnv7fhi&st=hjp8uo5t&dl=1","youtube":"https://www.youtube.com/watch?v=Za9ZY4HLaKA&list=RDZa9ZY4HLaKA&start_radio=1&pp=ygUVZ2xvcmlsbGEgVEdJRiAgbHlyaWNzoAcB","times":[{"position":7.891972361945639,"start":7.891972361945639,"end":8.628625749636441,"timeOfDay":"19:00"}]},
-  {"artist":"pretty ricky","title":"getchu right","mp3":"scl/fi/21w95gb1c0y83axwv3vro/Pretty-Ricky-Get-You-Right-Lyrics.mp3?rlkey=azrq4s7u9z26uti2fi14fx9az&st=sidvnxjr&dl=1","youtube":"https://www.youtube.com/watch?v=PCww1g9hHHw&list=RDPCww1g9hHHw&start_radio=1&pp=ygUhcHJldHR5IHJpY2t5IGdldGNodSByaWdodCAgbHlyaWNzoAcB0gcJCbIJAYcqIYzv","times":[{"position":38.442784155163466,"start":38.442784155163466,"end":41.96328372468904,"timeOfDay":"19:00"}]},
-  {"artist":"Usher","title":"nice and slow","mp3":"scl/fi/ahcaay0tg7fyh0nq0kgz1/Nice-Slow-Usher-Lyrics.mp3?rlkey=wq1qsw8nbnt1r4301d72o0hn4&st=aca8i361&dl=1","youtube":"https://www.youtube.com/watch?v=XHb4gjHmMgI&list=RDXHb4gjHmMgI&start_radio=1&pp=ygUaVXNoZXIgbmljZSBhbmQgc2xvdyBseXJpY3OgBwE%3D","times":[{"position":34,"start":34,"end":35.1736193622915,"timeOfDay":"19:00"}]},
-  {"artist":"4Batz","title":"act ii: date @ 8 ","mp3":"scl/fi/620dqgylp2bmwrnq6oeqr/4Batz-act-ii_-date-8-Lyrics-_I-ll-come-and-slide-by-8pm_-4.mp3?rlkey=z8od7l1qe8jvs4z6vbu82ox4r&dl=1","youtube":"https://www.youtube.com/watch?v=OEVM1lKq5tg&ab_channel=SyrebralVibes","times":[{"position":9.604198669023525,"start":9.604198669023525,"end":11.323357321520541,"timeOfDay":"20:00"}]},
-  {"artist":"Ginuine","title":"so anxious","mp3":"scl/fi/mqhzo4ujhyb4vjqrrec65/Ginuwine-So-Anxious-Lyrics-4.mp3?rlkey=yx0x4d39z9323xc5picqz9b92&st=lgsouyx9&dl=1","youtube":"https://www.youtube.com/watch?v=z3x9JLY2lAk&list=RDz3x9JLY2lAk&start_radio=1&pp=ygUZR2ludWluZSBzbyBhbmNpb3VzIGx5cmljc6AHAQ%3D%3D","times":[{"position":40.341709424159916,"start":40.341709424159916,"end":42.640786494783214,"timeOfDay":"21:00"},{"position":105.66569372351826,"start":105.66569372351826,"end":107.34218859468119,"timeOfDay":"23:30"},{"position":120.17790308328767,"start":120.17790308328767,"end":122.91666012851086,"timeOfDay":"22:10"}]},
-  {"artist":"trey songz","title":"be my guest ","mp3":"scl/fi/ecvjackxqhg3471lzyhtu/Be-My-Guest-by-Trey-Songz-Lyrics.mp3?rlkey=z3ztrrm451tcd0zakkdh3bfle&st=nx098jyn&dl=1","youtube":"https://www.youtube.com/watch?v=mDwHNrOsWHo&list=RDmDwHNrOsWHo&start_radio=1&pp=ygUedHJleSBzb25neiBiZSBteSBndWVzdCAgbHlyaWNzoAcB","times":[{"position":27.289691394107003,"start":27.289691394107003,"end":29.278187155638737,"timeOfDay":"21:00"}]},
-  {"artist":"Whitney Houston","title":"heartbreak hotel","mp3":"scl/fi/l0m5k1i1ta7tjr3e5i9gz/Whitney-Houston-Heartbreak-Hotel-Lyrics-Ft.-Kelly-Price-Faith-Evans-4.mp3?rlkey=ez85ewaiow8tx8s3k3a5il7a9&st=4oo1rlx7&dl=1","youtube":"https://www.youtube.com/watch?v=bLvx0pIspi4&list=RDbLvx0pIspi4&start_radio=1&pp=ygUnV2hpdG5leSBIb3VzdG9uIGhlYXJ0YnJlYWsgaG90ZWwgbHlyaWNzoAcB","times":[{"position":33.19907638353767,"start":33.19907638353767,"end":34.57900908025659,"timeOfDay":"21:00"}]},
-  {"artist":"SZA","title":"The Weekend","mp3":"scl/fi/q0kb4auwdfkmvxgcf62i4/SZA-The-Weekend-Lyrics-4.mp3?rlkey=vtlwlptplct7ry64yd5qxqzid&dl=1","youtube":"https://www.youtube.com/watch?v=f4w1RZ5dpi0&list=RDf4w1RZ5dpi0&start_radio=1&pp=ygUWU1pBIFRoZSBXZWVrZW5kIGx5cmljc6AHAQ%3D%3D","times":[{"position":89.27117843464345,"start":89.27117843464345,"end":90.31603274670847,"timeOfDay":"22:30"}]},
-  {"artist":"Ciara","title":"Get Up","mp3":"scl/fi/tj0crrnlmdm4p26s1jrxn/Ciara-Get-Up-4.mp3?rlkey=hk51ms7hmzg4adeixweq2403o&dl=1","youtube":"https://www.youtube.com/watch?v=DVRX3rnMzm4&list=RDDVRX3rnMzm4&start_radio=1&pp=ygUMY2lhcmEgZ2V0IHVwoAcB","times":[{"position":155.8436058862367,"start":155.8436058862367,"end":156.66249266963973,"timeOfDay":"23:00"}]},
-  {"artist":"Usher","title":"I Don't Know","mp3":"scl/fi/xtnwp1yluxyvxh9211ii7/I-Don-t-Know.mp3?rlkey=56mnwvo4rdek1j1jfo5fz17ad&dl=1","youtube":"","times":[{"position":43.40928916920306,"start":43.40928916920306,"end":44.52582978072363,"timeOfDay":"23:00"}]},
-  {"artist":"Kanye West","title":"Get Em High","mp3":"scl/fi/jw85f0a74nd4efqfr839h/Get-Em-High-4.mp3?rlkey=sex7b04bjx53lpnca3z5y8m69&dl=1","youtube":"https://www.youtube.com/watch?v=UHpaLbhk8vM&list=RDUHpaLbhk8vM&start_radio=1&pp=ygUdS2FueWUgV2VzdCBHZXQgRW0gSGlnaCBseXJpY3OgBwHSBwkJ3gkBhyohjO8%3D","times":[{"position":100.528374081261,"start":100.528374081261,"end":101.84207435017025,"timeOfDay":"23:26"}]},
-  {"artist":"Destiny’s child","title":"jumpin ","mp3":"scl/fi/y7wu266wp9k4keyt9kyca/Destiny-s-Child-Jumpin-Jumpin-Lyrics-4.mp3?rlkey=hnl9bfcbiyscmkmflpolngy5w&st=y9bkobos&dl=1","youtube":"https://www.youtube.com/watch?v=D0FPGAptauI&list=RDD0FPGAptauI&start_radio=1&pp=ygUgRGVzdGlueeKAmXMgY2hpbGQganVtcGluICBseXJpY3OgBwE%3D","times":[{"position":8.366431214890111,"start":8.366431214890111,"end":9.128738695136542,"timeOfDay":"23:30"}]}
+  {
+    "artist": "Eminem",
+    "title": "Chloreseptic ",
+    "mp3": "scl/fi/ic4qvn0drkvwhbgj2zjqd/Chloraseptic-Remix-4.mp3?rlkey=hudd1zn6kpa7glo9txpoe2lpd&st=82pe3yjt&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=weco8BPLDDM&list=RDweco8BPLDDM&start_radio=1&pp=ygUbRW1pbmVtIENobG9yZXNlcHRpYyAgbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 63.527959267134904,
+        "start": 63.527959267134904,
+        "end": 64.29580124358891,
+        "timeOfDay": "18:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ariana Grande",
+    "title": "Six Thirty",
+    "mp3": "scl/fi/dacfmfunvuolwn95tpvng/Ariana-Grande-six-thirty-Lyric-Video.mp3?rlkey=np4przb7zbsqgrfja299ihf74&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=MpX9_ECPfCY&list=RDMpX9_ECPfCY&start_radio=1&pp=ygUfQXJpYW5hIEdyYW5kZSBTaXggVGhpcnR5IGx5cmljc6AHAQ%3D%3D",
+    "times": [
+      {
+        "position": 104.85251063036375,
+        "start": 104.85251063036375,
+        "end": 105.71749882461225,
+        "timeOfDay": "18:30"
+      }
+    ]
+  },
+  {
+    "artist": "do or die",
+    "title": "po pimp",
+    "mp3": "scl/fi/31gq8qbr3rs3ayt933rdv/Do-or-Die-Po-Pimp-Lyric-Video.mp3?rlkey=78vathjkf520xrp9xhd83232e&st=oyvl2ujc&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=tXghG6hmeWc&list=RDtXghG6hmeWc&start_radio=1&pp=ygUYZG8gb3IgZGllIHBvIHBpbXAgbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 13.82611101148567,
+        "start": 13.82611101148567,
+        "end": 14.991452057534213,
+        "timeOfDay": "19:00"
+      }
+    ]
+  },
+  {
+    "artist": "glorilla",
+    "title": "TGIF ",
+    "mp3": "scl/fi/w5b3ma7e5kegv2z11iaxm/GloRilla-TGIF-Lyrics-4.mp3?rlkey=pa0ueq9r0xph8jg0ersnv7fhi&st=hjp8uo5t&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=Za9ZY4HLaKA&list=RDZa9ZY4HLaKA&start_radio=1&pp=ygUVZ2xvcmlsbGEgVEdJRiAgbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 7.891972361945639,
+        "start": 7.891972361945639,
+        "end": 8.628625749636441,
+        "timeOfDay": "19:00"
+      }
+    ]
+  },
+  {
+    "artist": "pretty ricky",
+    "title": "getchu right",
+    "mp3": "scl/fi/21w95gb1c0y83axwv3vro/Pretty-Ricky-Get-You-Right-Lyrics.mp3?rlkey=azrq4s7u9z26uti2fi14fx9az&st=sidvnxjr&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=PCww1g9hHHw&list=RDPCww1g9hHHw&start_radio=1&pp=ygUhcHJldHR5IHJpY2t5IGdldGNodSByaWdodCAgbHlyaWNzoAcB0gcJCbIJAYcqIYzv",
+    "times": [
+      {
+        "position": 38.442784155163466,
+        "start": 38.442784155163466,
+        "end": 41.96328372468904,
+        "timeOfDay": "19:00"
+      }
+    ]
+  },
+  {
+    "artist": "Usher",
+    "title": "nice and slow",
+    "mp3": "scl/fi/ahcaay0tg7fyh0nq0kgz1/Nice-Slow-Usher-Lyrics.mp3?rlkey=wq1qsw8nbnt1r4301d72o0hn4&st=aca8i361&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=XHb4gjHmMgI&list=RDXHb4gjHmMgI&start_radio=1&pp=ygUaVXNoZXIgbmljZSBhbmQgc2xvdyBseXJpY3OgBwE%3D",
+    "times": [
+      {
+        "position": 34,
+        "start": 34,
+        "end": 35.1736193622915,
+        "timeOfDay": "19:00"
+      }
+    ]
+  },
+  {
+    "artist": "4Batz",
+    "title": "act ii: date @ 8 ",
+    "mp3": "scl/fi/620dqgylp2bmwrnq6oeqr/4Batz-act-ii_-date-8-Lyrics-_I-ll-come-and-slide-by-8pm_-4.mp3?rlkey=z8od7l1qe8jvs4z6vbu82ox4r&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=OEVM1lKq5tg&ab_channel=SyrebralVibes",
+    "times": [
+      {
+        "position": 9.604198669023525,
+        "start": 9.604198669023525,
+        "end": 11.323357321520541,
+        "timeOfDay": "20:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ginuine",
+    "title": "so anxious",
+    "mp3": "scl/fi/mqhzo4ujhyb4vjqrrec65/Ginuwine-So-Anxious-Lyrics-4.mp3?rlkey=yx0x4d39z9323xc5picqz9b92&st=lgsouyx9&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=z3x9JLY2lAk&list=RDz3x9JLY2lAk&start_radio=1&pp=ygUZR2ludWluZSBzbyBhbmNpb3VzIGx5cmljc6AHAQ%3D%3D",
+    "times": [
+      {
+        "position": 40.341709424159916,
+        "start": 40.341709424159916,
+        "end": 42.640786494783214,
+        "timeOfDay": "21:00"
+      },
+      {
+        "position": 105.66569372351826,
+        "start": 105.66569372351826,
+        "end": 107.34218859468119,
+        "timeOfDay": "23:30"
+      },
+      {
+        "position": 120.17790308328767,
+        "start": 120.17790308328767,
+        "end": 122.91666012851086,
+        "timeOfDay": "22:10"
+      }
+    ]
+  },
+  {
+    "artist": "trey songz",
+    "title": "be my guest ",
+    "mp3": "scl/fi/ecvjackxqhg3471lzyhtu/Be-My-Guest-by-Trey-Songz-Lyrics.mp3?rlkey=z3ztrrm451tcd0zakkdh3bfle&st=nx098jyn&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=mDwHNrOsWHo&list=RDmDwHNrOsWHo&start_radio=1&pp=ygUedHJleSBzb25neiBiZSBteSBndWVzdCAgbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 27.289691394107003,
+        "start": 27.289691394107003,
+        "end": 29.278187155638737,
+        "timeOfDay": "21:00"
+      }
+    ]
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "heartbreak hotel",
+    "mp3": "scl/fi/l0m5k1i1ta7tjr3e5i9gz/Whitney-Houston-Heartbreak-Hotel-Lyrics-Ft.-Kelly-Price-Faith-Evans-4.mp3?rlkey=ez85ewaiow8tx8s3k3a5il7a9&st=4oo1rlx7&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=bLvx0pIspi4&list=RDbLvx0pIspi4&start_radio=1&pp=ygUnV2hpdG5leSBIb3VzdG9uIGhlYXJ0YnJlYWsgaG90ZWwgbHlyaWNzoAcB",
+    "times": [
+      {
+        "position": 33.19907638353767,
+        "start": 33.19907638353767,
+        "end": 34.57900908025659,
+        "timeOfDay": "21:00"
+      }
+    ]
+  },
+  {
+    "artist": "SZA",
+    "title": "The Weekend",
+    "mp3": "scl/fi/q0kb4auwdfkmvxgcf62i4/SZA-The-Weekend-Lyrics-4.mp3?rlkey=vtlwlptplct7ry64yd5qxqzid&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=f4w1RZ5dpi0&list=RDf4w1RZ5dpi0&start_radio=1&pp=ygUWU1pBIFRoZSBXZWVrZW5kIGx5cmljc6AHAQ%3D%3D",
+    "times": [
+      {
+        "position": 89.27117843464345,
+        "start": 89.27117843464345,
+        "end": 90.31603274670847,
+        "timeOfDay": "22:30"
+      }
+    ]
+  },
+  {
+    "artist": "Ciara",
+    "title": "Get Up",
+    "mp3": "scl/fi/tj0crrnlmdm4p26s1jrxn/Ciara-Get-Up-4.mp3?rlkey=hk51ms7hmzg4adeixweq2403o&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=DVRX3rnMzm4&list=RDDVRX3rnMzm4&start_radio=1&pp=ygUMY2lhcmEgZ2V0IHVwoAcB",
+    "times": [
+      {
+        "position": 155.8436058862367,
+        "start": 155.8436058862367,
+        "end": 156.66249266963973,
+        "timeOfDay": "23:00"
+      }
+    ]
+  },
+  {
+    "artist": "Usher",
+    "title": "I Don't Know",
+    "mp3": "scl/fi/xtnwp1yluxyvxh9211ii7/I-Don-t-Know.mp3?rlkey=56mnwvo4rdek1j1jfo5fz17ad&dl=1",
+    "youtube": "",
+    "times": [
+      {
+        "position": 43.40928916920306,
+        "start": 43.40928916920306,
+        "end": 44.52582978072363,
+        "timeOfDay": "23:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kanye West",
+    "title": "Get Em High",
+    "mp3": "scl/fi/jw85f0a74nd4efqfr839h/Get-Em-High-4.mp3?rlkey=sex7b04bjx53lpnca3z5y8m69&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=UHpaLbhk8vM&list=RDUHpaLbhk8vM&start_radio=1&pp=ygUdS2FueWUgV2VzdCBHZXQgRW0gSGlnaCBseXJpY3OgBwHSBwkJ3gkBhyohjO8%3D",
+    "times": [
+      {
+        "position": 100.528374081261,
+        "start": 100.528374081261,
+        "end": 101.84207435017025,
+        "timeOfDay": "23:26"
+      }
+    ]
+  },
+  {
+    "artist": "Destiny’s child",
+    "title": "jumpin ",
+    "mp3": "scl/fi/y7wu266wp9k4keyt9kyca/Destiny-s-Child-Jumpin-Jumpin-Lyrics-4.mp3?rlkey=hnl9bfcbiyscmkmflpolngy5w&st=y9bkobos&dl=1",
+    "youtube": "https://www.youtube.com/watch?v=D0FPGAptauI&list=RDD0FPGAptauI&start_radio=1&pp=ygUgRGVzdGlueeKAmXMgY2hpbGQganVtcGluICBseXJpY3OgBwE%3D",
+    "times": [
+      {
+        "position": 8.366431214890111,
+        "start": 8.366431214890111,
+        "end": 9.128738695136542,
+        "timeOfDay": "23:30"
+      }
+    ]
+  }
 ]

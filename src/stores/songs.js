@@ -6,8 +6,9 @@ export const songStore = defineStore('songStore', {
   state: () => ({
     songs: [],
     allTimes: [],
+    songsUpdating: [],
     currentSong: null,
-    songToEdit: null
+    songToEdit: null,
   }),
   getters: {
     // currentSong () {
@@ -25,20 +26,18 @@ export const songStore = defineStore('songStore', {
       this.songs.forEach((song) => {
         if (!!song.times) {
           song.times.forEach((time) => {
-            // if(time.end === 0) {
-              list.push({
-                artist: song.artist,
-                title: song.title,
-                position: time.position,
-                start: time.start,
-                end: time.end,
-                duration: time.duration,
-                mp3: song.mp3,
-                youtube: song.youtube,
-                timeOfDay: time.timeOfDay,
-                parentSong: song
-              });
-            // }
+            list.push({
+              artist: song.artist,
+              title: song.title,
+              position: time.position,
+              start: time.start,
+              end: time.end,
+              duration: time.duration,
+              mp3: song.mp3,
+              youtube: song.youtube,
+              timeOfDay: time.timeOfDay,
+              parentSong: song
+            });
           });
         } else {
           list.push(song);
@@ -53,6 +52,18 @@ export const songStore = defineStore('songStore', {
     },
     updateSongToEdit(song) {
       this.songToEdit = song
+    },
+    updateSong(url, newSong) {
+      let songToUpdate = this.songsUpdating.find((song) => song.mp3 === url)
+      if(!!songToUpdate) {
+        const index = this.songsUpdating.indexOf(songToUpdate)
+        this.songsUpdating.splice(index, 1, newSong);
+        // console.log(this.songsUpdating)
+      }
+    },
+    setSongsUpdating (songs) {
+      // console.log(songs)
+      this.songsUpdating = songs
     }
   },
 })

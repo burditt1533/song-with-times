@@ -12,9 +12,10 @@ onMounted(() => {
 
 <template>
     <nav class="top-nav">
-      <img alt="Vue logo" class="logo" src="./assets/logo.svg" />
+      <a href="/"><img alt="Vue logo" class="logo" src="./assets/logo.svg" /></a>
       <router-link class="nav-link" to="/">Home</router-link>
       <router-link class="nav-link" to="/edit-song">Edit</router-link>
+      <router-link class="nav-link" to="/edit_all_songs">Edit All</router-link>
     </nav>
   <RouterView />
 </template>
@@ -36,9 +37,6 @@ body {
   gap: 10px;
   border-bottom: 1px solid #dddddd;
 
-  .nav-link {
-
-  }
 }
 
 .logo {
